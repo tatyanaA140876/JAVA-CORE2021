@@ -1,7 +1,5 @@
 package lesson1;
 
-
-
 public class Team {
     String teamName;
     Athlete[] team;
